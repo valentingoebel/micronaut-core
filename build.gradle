@@ -373,6 +373,11 @@ ext {
                     group  : 'info.picocli',
                     name   : 'picocli'
             ],
+            "picocli-codegen"          : [
+                    version: picocliVersion,
+                    group  : 'info.picocli',
+                    name   : 'picocli-codegen'
+            ],
             lettuce                    : [
                     version: lettuceVersion,
                     group  : 'io.lettuce',
